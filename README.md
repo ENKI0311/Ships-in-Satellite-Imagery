@@ -96,14 +96,7 @@ For questions or suggestions, feel free to reach out:
 
 ```
 
-```
 
-### **What This README Does**
-- **Professional Overview**: Summarizes the project’s purpose and achievements.
-- **Structured Documentation**: Provides a clear structure for anyone reviewing or using the project.
-- **Ready for Showcase**: Includes visuals and key metrics to impress viewers.
-
-Feel free to tweak the details like your GitHub username, email, or future work goals. Let me know if you need further adjustments! 🚀
 
 
 

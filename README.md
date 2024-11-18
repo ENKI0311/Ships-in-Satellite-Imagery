@@ -1,4 +1,4 @@
-Here’s the cleaned-up and properly formatted version of the README:
+
 
 ---
 
@@ -98,14 +98,6 @@ For questions or suggestions, feel free to reach out:
 
 ---
 
-### **What This README Does**
-- **Professional Overview**: Highlights the project's objectives and achievements.
-- **Clear Documentation**: Provides an intuitive structure for ease of use.
-- **Engaging Visuals**: Includes key visualizations to enhance readability and appeal.
-
----
-
-This version is properly aligned, easy to read, and formatted for GitHub. Let me know if you need to adjust the email, username, or any other specifics! 🚀
 
 
 

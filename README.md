@@ -1,11 +1,11 @@
 ### **README for Ship Detection Project**
 
-``
+```markdown
 # 🚢 Ship Detection in Satellite Imagery
 
 This repository contains a comprehensive deep learning project aimed at detecting ships in satellite imagery. The project leverages advanced techniques such as data augmentation, class balancing, and transfer learning to achieve high precision and recall for detecting ships.
 
-``
+---
 
 ## 🌟 Key Features
 - **Deep Learning Models**: Iteratively developed four models, culminating in the best-performing Model 4 using MobileNetV2 and transfer learning.
@@ -13,7 +13,7 @@ This repository contains a comprehensive deep learning project aimed at detectin
 - **Class Imbalance Handling**: Applied class weighting to emphasize the minority `Ship` class.
 - **Visualization**: Detailed training progress visualizations and confusion matrices for performance insights.
 
-```
+---
 
 ## 📂 Repository Structure
 ```
@@ -27,7 +27,7 @@ This repository contains a comprehensive deep learning project aimed at detectin
 ├── README.md                      # Project overview and documentation
 ```
 
-```
+---
 
 ## 📊 Results
 ### **Model 4 Performance**
@@ -46,7 +46,7 @@ Model 4 demonstrated strong generalization and balanced performance between prec
 - **Optimization**: Adam optimizer with a learning rate of 0.00005
 - **Metrics**: Accuracy, Precision, Recall, F1-Score
 
-----
+---
 
 ## 🚀 How to Use
 1. **Clone the Repository**:
@@ -92,10 +92,11 @@ This project is licensed under the MIT License. Feel free to use and modify it f
 
 ## 📧 Contact
 For questions or suggestions, feel free to reach out:
-- **Email**: jchilton@codeai.consulting
-
+- **Email**: your_email@example.com
+- **GitHub**: [YourUsername](https://github.com/your-username)
 ```
 
+---
 
 
 

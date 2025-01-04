@@ -52,7 +52,7 @@ Model 4 demonstrated strong generalization and balanced performance between prec
 ## 🚀 How to Use
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/ship-detection.git
+   git clone https://github.com/ENKI0311/ship-detection.git
    cd ship-detection
    ```
 
@@ -94,7 +94,7 @@ This project is licensed under the MIT License. Feel free to use and modify it f
 ## 📧 Contact
 For questions or suggestions, feel free to reach out:
 - **Email**: your_email@example.com
-- **GitHub**: [YourUsername](https://github.com/your-username)
+- **GitHub**: [YourUsername](https://github.com/ENKI0311)
 
 ---
 

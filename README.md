@@ -67,10 +67,10 @@ Model 4 demonstrated strong generalization and balanced performance between prec
 
 ## 📈 Visual Examples
 ### Training Progress
-![Training Progress](images/training_progress.png)
+![Training Progress](/cyG2Z54.png)
 
 ### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](/tLsSoTz.png)
 
 ---
 
